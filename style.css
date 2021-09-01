@@ -1,0 +1,19 @@
+/*Change the background of the html file to gray*/
+body {
+  background-color: gray;
+}
+/*Move the latitude text to the left side and color it */
+a.navbar-button{
+  margin-left: 10px;
+  padding: 10px;
+  font-size: 19px;
+  background-color: rgb(81, 175, 160);
+  color:white;
+}
+/* Styling the navbar*/
+.navbar{
+  color:white;
+  padding-right:33px;
+  padding-top:0px;
+  padding-bottom: 0px;
+}
